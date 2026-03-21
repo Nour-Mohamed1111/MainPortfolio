@@ -1,4 +1,4 @@
-# 🌐 بورتفوليو نور محمد
+# 🌐 الموقع الشخصي
 
 ![img preview](assets/projects/portfolioNew.jpg)
 
