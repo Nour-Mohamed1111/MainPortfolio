@@ -134,7 +134,6 @@ scrollTopBtn.addEventListener("click", () => {
 // form logic
 const form = document.getElementById("contact-form");
 const btn = document.getElementById("submitBtn");
-console.log(form);
 const GOOGLE_FORM_ACTION = "https://script.google.com/macros/s/AKfycbwu0vuNJIzpKD0ohsPJ4jWvT2ts8WxDIkRS-ZFm7vckh873QuGqUUl9V1OBYKN0SSPVfg/exec";
 
 // النصوص
